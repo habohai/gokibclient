@@ -1,4 +1,4 @@
-module gomicro2
+module github.com/haibeihabo/gokibclient
 
 go 1.14
 

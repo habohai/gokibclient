@@ -2,11 +2,12 @@ package util
 
 import (
 	"context"
-	"gomicro2/services"
 	"io"
 	"net/url"
 	"os"
 	"time"
+
+	"github.com/haibeihabo/gokibclient/services"
 
 	"github.com/go-kit/kit/endpoint"
 	"github.com/go-kit/kit/log"

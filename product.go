@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"gomicro2/util"
 	"log"
 	"time"
+
+	"github.com/haibeihabo/gokibclient/util"
 
 	"github.com/afex/hystrix-go/hystrix"
 )
